@@ -1,3 +1,4 @@
+# David C 20/9/16
 # Ignore configuration files that may contain sensitive information.
 sites/*/*settings*.php
 
